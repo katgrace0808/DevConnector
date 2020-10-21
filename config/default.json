@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://kat123:kat123@devconnector.1mkia.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "a79fba7642fa7ccd5623",
+  "githubSecret": "ce4472236af1d7c399a971757533bbc4636f6985"
 }
